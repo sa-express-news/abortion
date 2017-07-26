@@ -12,7 +12,7 @@ class StoryTopDesktop extends Component {
 	};
 
 	loadPhoto = (path: string) =>{
-		return require(`../../images/${path}`);
+		return path;
 	}
 
 	render(){

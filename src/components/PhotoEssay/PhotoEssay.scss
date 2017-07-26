@@ -26,9 +26,7 @@
 	}
 
 	div.essay {
-		visibility: visible;
-
-		&.hide {
+		&.hide .text-box {
 			visibility: hidden;
 		}
 
@@ -40,7 +38,9 @@
 			background: rgba(0, 0, 0, 0.8);
 		}
 
-		.text-box { 
+		.text-box {
+			visibility: visible;
+
 			h2.title {
 			 	font-size: 2rem;
 			}
@@ -52,6 +52,13 @@
 			h4.read-more {
 			 	cursor: pointer;
 			 	color: rgba(255, 25, 57, 1);
+			 	font-size: 20px;
+			}
+
+			@media screen and (max-width: 44.9375em) {
+				.grommetux-card:not(:last-child) {
+    				border-bottom: none;
+				}
 			}
 		}
 	}

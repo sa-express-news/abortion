@@ -1,6 +1,7 @@
 .PullQuote {
     color: #080808;
-    font-size: 1.25em;
+    font-family: 'Suez One', serif;
+    font-size: 24px;
     font-weight: bold;
     margin: 3vh auto 3vh;
 }

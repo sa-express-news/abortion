@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Sanchez|Source+Serif+Pro|Suez+One');
+
 .App {
 	color: #333;
-	font-family: Georgia, serif;
+	font-family: 'Source Serif Pro', serif;
+  	font-size: 16px;
 	line-height: 1.35;
 }
 

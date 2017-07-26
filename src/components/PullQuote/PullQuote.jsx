@@ -12,7 +12,7 @@ class PullQuote extends Component {
 	render(){
 		return(
 			<div className='PullQuoteContainer'>
-				<p className='PullQuote'>"{this.props.quote}"</p>
+				<p className='PullQuote'>{this.props.quote}</p>
 			</div>
 		)
 	}

@@ -27,7 +27,9 @@
 
 .Paragraph .dropCap {
     float: left;
-    font-size: 8vh;
+    font-size: 10vh;
+    font-family: 'Suez One', serif;
+    color: #080808;
     line-height: 60px;
     padding-top: 1vh;
     padding-right: 0;

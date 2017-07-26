@@ -1,7 +1,9 @@
 .StoryMetaDesktop{
 	color: white;
-	padding-left: 8vh;
-	padding-top: 14em;
+	padding-left: 6vh;
+	position: relative;
+	color: #FDFEFE;
+	top: 66vh;
 	width: 55%;
 }
 

@@ -1,6 +1,7 @@
 .Headline {
-    font-size: 1.5em;
-    font-weight: bold;
+    font-family: 'Suez One', serif;
+    font-size: 60px;
+    font-weight: 100;
     margin: 1em 0 .25em;
 }
 
@@ -10,7 +11,7 @@
 
 @media (min-width: 1024px) {
     .Headline {
-        font-size: 2em;
+        /* font-size: 2em; */
         margin: 0;
     }
 }

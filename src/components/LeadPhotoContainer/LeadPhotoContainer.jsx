@@ -13,7 +13,7 @@ class LeadPhotoContainer extends Component {
 	};
 
 	loadPhoto = (path: string) =>{
-		return require(`../../images/${path}`);
+		return path;
 	}
 
 	render(){

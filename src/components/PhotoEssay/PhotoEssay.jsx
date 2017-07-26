@@ -1,4 +1,4 @@
-// @flow
+ // @flow
 
 import React from 'react';
 import _ from 'lodash';
@@ -77,14 +77,14 @@ export default (props: propTypes) => (
 						key={idx}
 					>
 						<Box basis="1/3" />
-							<Box
-								direction="row"
-								justify="start"
-								align="center"
-								className="text-box"
-								key={idx}
-								basis="2/3"
-							>
+						<Box
+							direction="row"
+							justify="start"
+							align="center"
+							className="text-box"
+							key={idx}
+							basis="2/3"
+						>
 							<Card 
 								heading={addHeading(photo.title, 'h2', 'title', null)}
 								description={addHeading(options.descriptionText, 'h4', options.descriptionClass, options.descriptionHandle)}

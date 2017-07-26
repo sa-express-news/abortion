@@ -9,9 +9,13 @@ class PhotoCutline extends Component {
 		text: string
 	};
 
+	getCutline() {
+		return this.props.text ? `(${this.props.text})` : '';
+	}
+
 	render(){
 		return(
-			<span className='PhotoCutline'>({this.props.text})</span> 
+			<span className='PhotoCutline'>{this.getCutline()}</span> 
 		)
 	}
 }

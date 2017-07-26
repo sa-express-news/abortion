@@ -1,0 +1,27 @@
+.InlinePhotoDesktopContainer {
+    margin: 2em 0;
+    max-height: 100vh;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .InlinePhotoDesktopContainer {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .InlinePhotoDesktopContainer {
+        display: inline-flex;
+        flex-direction: column;
+        margin: 0 1em 2vh 22vh;
+        width: 50%;
+    }
+    .InlinePhotoDesktopContainer .PhotoInfo {
+        margin: 0;
+        text-align: left;
+    }
+    .InlinePhotoDesktopContainer .PhotoInfo p {
+        margin-bottom: 0;
+    }
+}

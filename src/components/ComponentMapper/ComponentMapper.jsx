@@ -3,9 +3,12 @@
 import React from 'react';
 
 import Paragraph from '../Paragraph/Paragraph';
+import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import SectionHeading from '../SectionHeading/SectionHeading';
 import FullPhoto from '../FullPhoto/FullPhoto';
 import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
+import InlinePhotoDesktop from '../InlinePhotoDesktop/InlinePhotoDesktop';
+import InlinePhotoDesktopContainer from '../InlinePhotoDesktopContainer/InlinePhotoDesktopContainer';
 import SmallPhotoDesktop from '../SmallPhotoDesktop/SmallPhotoDesktop';
 import SmallPhotoDesktopContainer from '../SmallPhotoDesktopContainer/SmallPhotoDesktopContainer';
 import SmallPhotoDesktopContainerReverse from '../SmallPhotoDesktopContainerReverse/SmallPhotoDesktopContainerReverse';
@@ -19,11 +22,13 @@ import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 import Video from '../Video/Video';
 
 const loadPhoto = (path: string) => {
-	return require(`../../images/${path}`);
+	return path;
 };
 
 export default{
 	text: (object: Object, key: number) => <Paragraph text={object.value} key={key}/>,
+
+	introparagraph: (object: Object, key: number) => <IntroParagraph text={object.value} key={key}/>,
 
 	credit: (object: Object, key: number) => <Paragraph text={object.value} italic={true} key={key}/>,
 
@@ -31,13 +36,17 @@ export default{
 
 	photo: function(object: Object, key: number){
 		const photo = object.value;
-		const photoPath = loadPhoto(photo.source);
+		const photoPath = photo.source;
 		switch (photo.type){
 			
 			case 'full': 
 			let photoComponent = <FullPhoto src={photoPath} alt={photo.caption}/>;
 			return <FullPhotoContainer caption={photo.caption} cutline={photo.cutline} key={key}>{photoComponent}</FullPhotoContainer>
 			
+			case 'inline':
+			let inlinePhotoComponent = <InlinePhotoDesktop src={photoPath} alt={photo.caption}/>
+			return <InlinePhotoDesktopContainer caption={photo.caption} cutline={photo.cutline} key={key}>{inlinePhotoComponent}</InlinePhotoDesktopContainer>
+
 			case 'small-left':
 			let smallPhotoComponent = <SmallPhotoDesktop src={photoPath} alt={photo.caption}/>
 			return <SmallPhotoDesktopContainer caption={photo.caption} cutline={photo.cutline} key={key}>{smallPhotoComponent}</SmallPhotoDesktopContainer>
@@ -52,10 +61,6 @@ export default{
 	},
 	
 	photos: (object: Object, key: number) => <Photos photos={object.value} key={key}/>,
-
-	loadPhoto: function(path: string){
-		return require(`../../images/${path}`);
-	},
 
 	annotation: (object: Object, key: number) => <Annotation text={object.value.text} annotation={object.value.annotation} key={key} />,
 

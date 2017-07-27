@@ -1,7 +1,7 @@
 // @flow
 
 import React, {Component} from 'react';
-
+// $FlowFixMe
 import './InlinePhotoDesktop.scss';
 
 class InlinePhotoDesktop extends Component {

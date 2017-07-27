@@ -2,13 +2,13 @@
   "top": {
     "meta": {
       "headline": "Abortion in Texas",
-      "subhead": "The Supreme Court overturned a sweeping abortion law last year, but the system of providers has yet to recover.",
-      "byline": "Melissa Fletcher Stoeltje. Photos by Carolyn Van Houten",
+      "subhead": "The Supreme Court last year overturned critical parts to a sweeping anti-abortion law passed by Texas legislators in 2013, but the system of providers has not recovered.",
+      "byline": "Melissa Fletcher Stoeltje | Photos by Carolyn Van Houten",
       "date": "July 27, 2017"
     },
     "image": {
       "source": "http://ww4.hdnux.com/photos/63/13/56/13417367/3/rawImage.jpg",
-      "caption": "Jess, 25, holds hands with her mother Aisme as she prepares to undergo an abortion in San Antonio."
+      "caption": "As two sides of the abortion debate crash into each other during the annual Roe v. Wade Anniversary protest, Mercedes Soto sings a hymn into a megaphone. More than a thousand other anti-abortion protestors faced off with abortion rights advocates in the intersection in front of the Whole Woman's Health abortion clinic in McAllen, Texas on January 21, 2017."
     }
   },
   "sections": {
@@ -53,7 +53,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww2.hdnux.com/photos/63/13/56/13417369/3/rawImage.jpg",
-          "caption": "Mercedes Soto cries as she sings a hymn into a megaphone while facing off with abortion rights advocates in front of the Whole Woman's Health abortion clinic in McAllen, Texas.",
+          "caption": "Mercedes Soto cries as she sings a hymn into a megaphone while she and more than a thousand other anti-abortion protestors face off with abortion rights advocates in the intersection in front of the Whole Woman's Health abortion clinic in McAllen, Texas on January 21, 2017.",
           "type": "inline"
         }
       },
@@ -84,13 +84,13 @@
       {
         "type": "iframe",
         "value": {
-          "source": "http://datawrapper.dwcdn.net/1zklJ/3/"
+          "source": "https://e.infogram.com/texas_residents_who_received_abortions_2010_15?src=embed"
         }
       },
       {
         "type": "iframe",
         "value": {
-          "source": "http://datawrapper.dwcdn.net/Vvn5A/3/"
+          "source": "https://e.infogram.com/out_of_state_abortions_performed_on_texas_residents_2010_15?src=embed"
         }
       },
       {
@@ -139,11 +139,11 @@
         "value": [
           {
             "source": "http://ww2.hdnux.com/photos/63/13/56/13417377/3/rawImage.jpg",
-            "caption": "Providers and staff with Whole Woman's Health react to the Supreme Court HB 2 injunction in Austin, Texas, USA on June 27, 2016."
+            "caption": "Providers and staff with Whole Woman's Health, plaintiffs in the Whole Woman's Health v. Hellerstedt case, and women's reproductive and abortion rights advocates react to the Supreme Court of the United States' 5-3 ruling in a closed Whole Woman's Health clinic, in Austin, Texas, USA on June 27, 2016. The plaintiffs argued that Texas House Bill 2, which closed dozens of abortion clinics across Texas including this one, was unconstitutional. The Supreme Court agreed and ruled that Texas cannot place restrictions on abortion providers that pose an undue burden on women trying to access abortions. Upon hearing what is being considered the nation's most significant abortion ruling in a generation, those gathered said they hoped that closed clinics, such as this one, would be able to someday reopen because of this ruling. Nearly a year later, the clinic reopened."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/56/13417364/3/rawImage.jpg",
-            "caption": "A procedure room in the closed Whole Woman's Health abortion clinic in Austin, Texas."
+            "caption": "A procedure room in the closed Whole Woman's Health abortion clinic in Austin, Texas shortly after the Supreme Court of the United States' 5-3 ruling on the Whole Woman's Health v. Hellerstedt case on June 27, 2016. On the wall there is a Sojourner Truth quote that reads, \"The truth is powerful and it prevails.\" Nearly a year later, the clinic reopened."
           }
         ]
       }
@@ -183,7 +183,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww1.hdnux.com/photos/63/13/56/13417368/3/rawImage.jpg",
-          "caption": "Mercedes Soto, a former gang member who got pregnant after being assaulted, holds her son Samson at their home in Edinburg, Texas.",
+          "caption": "Mercedes Soto, a former gang member who got pregnant after being assaulted, holds her son Samson at their home in Edinburg, Texas on October 18, 2016. She tried to self-abort through pills, toxic teas, and other methods, but none worked. Still seeking an abortion, she went to the McAllen Whole Woman's Health abortion clinic when a pro-life sidewalk counselor convinced her to keep the pregnancy.  She has since become a pro-life activist, taking Samson and his sister Delilah to abortion protests.",
           "type": "inline"
         }
       },
@@ -220,23 +220,18 @@
         "value": [
           {
             "source": "http://ww4.hdnux.com/photos/63/13/54/13417247/3/rawImage.jpg",
-            "title": "Rosary of tiny fetuses",
+            "title": "Rosary",
             "caption": "The rosary Mercedes gave Delilah to use to pray outside the abortion clinics.  The beads have tiny fetuses inside what are meant to be the Virgin Mary's tears."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/54/13417240/3/rawImage.jpg",
             "title": "Praying for Patricia",
-            "caption": "Mercedes Soto and Patricia pray to find a safer and more secure place for Patricia to live by the time her child is born in the fall."
+            "caption": "Mercedes Soto prays over Patricia De Leon's pregnant belly outside the Sacred Heart Church in McAllen, Texas on June 1, 2017.  They were praying for Patricia to find a safer and more secure place to live by the time the child is born in the fall, Patricia said."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/54/13417236/3/rawImage.jpg",
             "title": "Praying for the baby",
-            "caption": "Mercedes Soto prays over Patricia's pregnant belly outside the Sacred Heart Church in McAllen, Texas on June 1, 2017."
-          },
-          {
-            "source": "http://ww4.hdnux.com/photos/63/13/54/13417243/3/rawImage.jpg",
-            "title": "Embrace after prayer",
-            "caption": "After praying, Mercedes and Patricia embrace. The morning of this photo, Patricia was beaten by the man she lives with."
+            "caption": "Mercedes Soto prays over Patricia De Leon's pregnant belly outside the Sacred Heart Church in McAllen, Texas on June 1, 2017.  They were praying for Patricia to find a safer and more secure place to live by the time the child is born in the fall, Patricia said."
           }
         ]
       },
@@ -312,8 +307,8 @@
           },
           {
             "source": "http://ww3.hdnux.com/photos/63/13/54/13417254/3/rawImage.jpg",
-            "title": "Noah's Ark themed cake",
-            "caption": "Orlando Sanchez holds a Noah's Ark themed birthday cake as Mercedes Soto holds her son Samson during his first birthday party, held on the 44th anniversary of Roe v. Wade, in their backyard on January 22, 2017."
+            "title": "First birthday",
+            "caption": "Orlando Sanchez holds a Noah's Ark themed birthday cake as Mercedes Soto holds her son Samson during his first birthday party, held on the 44th anniversary of Roe v. Wade, in their backyard on January 22, 2017.  When self-inducing failed, Mercedes sought an abortion after being gang-raped and becoming homeless. However, she decided to go through with the pregnancy when she met a pro-life sidewalk counselor as she walked into the Whole Woman's Health in McAllen, Texas."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/54/13417252/3/rawImage.jpg",
@@ -372,7 +367,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww4.hdnux.com/photos/63/13/54/13417255/3/rawImage.jpg",
-          "caption": "Sofia Peña sits in a bedroom with her daughter at her home in McAllen on May 18, 2017.",
+          "caption": "Sofia Peña sits in a bedroom with her daughter at her home in McAllen on May 18, 2017.  Sofia was in a rocky relationship with a boyfriend when she became pregnant with her daughter. She desperately wanted an abortion, but her boyfriend was vehemently against it, so she continued the pregnancy.  She took to parenting, much to her surprise, but struggled to raise her daughter without the father's consistent involvement. Before being able to get out of the relationship, she became pregnant again. This time she got an abortion, realizing she was not able to financially support a second child, having a cashier's job.  Now she helps run La Frontera Fund, which helps to fund travel to and from clinics for women seeking abortions who cannot afford them.  Her daughter's name is withheld for her privacy.",
           "type": "full"
         }
       },
@@ -434,7 +429,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww2.hdnux.com/photos/63/13/54/13417237/3/rawImage.jpg",
-          "caption": "A pro-choice message is graffitied onto a pro-life sign in the field behind the Whole Woman's Health abortion clinic in McAllen.",
+          "caption": "A pro-choice message is graffitied onto a pro-life sign in the field behind the Whole Woman's Health abortion clinic in McAllen, Texas on April 10, 2017.  Anti-abortion signage is prevalent on signs, cars, and elsewhere throughout the Rio Grande Valley.",
           "type": "full"
         }
       },
@@ -463,33 +458,33 @@
         "value": [
           {
             "source": "http://ww4.hdnux.com/photos/63/13/56/13417359/3/rawImage.jpg",
-            "title": "Preparing for protest",
+            "title": "Preparing for the protest",
             "caption": "Abortion rights activists prepare for the annual Roe v. Wade anniversary protest on January 21, 2017 by lining up in front of the Whole Woman's Health abortion clinic."
           },
           {
             "source": "http://ww4.hdnux.com/photos/63/13/54/13417239/3/rawImage.jpg",
-            "title": "Anacteto Benitez shouts",
-            "caption": "Anacteto Rios Benitez shouts during an annual anti-abortion rally on the 44th anniversary weekend of the Roe v. Wade Supreme Court decision."
+            "title": "An annual presence",
+            "caption": "Anacteto Rios Benitez shouts during an annual anti-abortion rally on the 44th anniversary weekend of the Roe v. Wade Supreme Court decision in front of the Whole Woman's Health in McAllen, Texas on January 21, 2017.  Over a thousand people, groups representing both sides of the abortion debate, gathered in the street in front of the Rio Grande Valley's only abortion clinic."
           },
           {
             "source": "http://ww2.hdnux.com/photos/63/13/56/13417365/3/rawImage.jpg",
             "title": "Orlando with Samson",
-            "caption": "Orlando Sanchez holds Samson at an anti-abortion rally in front of the McAllen Whole Woman's Health abortion clinic."
+            "caption": "Orlando Sanchez holds Samson at an anti-abortion rally in front of the McAllen Whole Woman's Health abortion clinic on January 21, 2017 in McAllen, Texas.  Sanchez is Mercedes Soto's husband."
           },
           {
             "source": "http://ww2.hdnux.com/photos/63/13/56/13417361/3/rawImage.jpg",
-            "title": "Protest and prayer",
+            "title": "40 Days for Life",
             "caption": "Abortion opponents from various area churches gather under a tent across the alley from the Whole Woman's Health abortion clinic in McAllen."
           },
           {
             "source": "http://ww3.hdnux.com/photos/63/13/54/13417238/3/rawImage.jpg",
             "title": "Guarding the front door",
-            "caption": "Kristeena Banda, clinic director, closes the exterior metal gates that protect the front door of the Whole Woman's Health abortion clinic as over a thousand people protest in front of the clinic."
+            "caption": "Kristeena Banda, clinic director, closes the exterior metal gates that protect the front door of the Whole Woman's Health abortion clinic as over a thousand people protest in front of the clinic in McAllen, Texas on January 21, 2017."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/54/13417248/3/rawImage.jpg",
             "title": "End of the day",
-            "caption": "Andrea Ferrigno, vice president of Whole Woman's Health, comforts Kristeena Banda, clinic director at the McAllen abortion clinic, after they finished seeing patients while more than a thousand pro-life advocates rallied in front of the clinic."
+            "caption": "Andrea Ferrigno, vice president of Whole Woman's Health, comforts Kristeena Banda, clinic director at the McAllen abortion clinic, after they finished seeing patients while more than a thousand pro-life advocates rallied in front of the clinic on January 21, 2017 in McAllen, Texas."
           }
         ]
       },
@@ -519,42 +514,42 @@
           {
             "source": "http://ww3.hdnux.com/photos/63/13/56/13417378/3/rawImage.jpg",
             "title": "The waiting room",
-            "caption": "Kristen, 18, waits to have a medical abortion in the Whole Woman's Health in San Antonio. She had to make a nine hour roundtrip bus ride from the military base where she is stationed in Del Rio, Texas. She said she and her boyfriend are not ready to be parents."
+            "caption": "Kristen, 18, waits to have a medical abortion in the Whole Woman's Health in San Antonio, Texas on March 16, 2017. She had to make a nine hour roundtrip bus ride from the military base where she is stationed in Del Rio, Texas. She said she and her boyfriend are not ready to be parents."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/56/13417376/3/rawImage.jpg",
             "title": "The ultrasound",
-            "caption": "Dr. Bhavik Kumar looks at an ultrasound of Jess before he can perform her abortion at the Whole Woman's Health clinic in San Antonio.  Her mother Aisme drove Jess from their home in Del Rio to the clinic, because the illegal abortion pills that they made two trips to Mexico to get did not work."
+            "caption": "Dr. Bhavik Kumar looks at an ultrasound of Jess before he can perform her abortion at the Whole Woman's Health clinic in San Antonio.  Her mother Aisme drove Jess from their home in Del Rio to the clinic, because the illegal abortion pills, called misoprostol, that they made two trips to Mexico to get did not work. In addition to this ultrasound, Kumar was required to read a state-mandated pamphlet called \"A Woman's Right to Know\", which the medical community has said contains a number of falsehoods, such as a link between abortion and breast cancer."
           },
           {
             "source": "http://ww4.hdnux.com/photos/63/13/56/13417375/3/rawImage.jpg",
-            "title": "Discussing options",
-            "caption": "Dr. Bhavik Kumar talks to Jess about her options, whether a medical or surgical abortion, after they looked at an ultrasound of her pregnancy before he performed her abortion at the Whole Woman's Health clinic in San Antonio."
+            "title": "A doctor's opinion",
+            "caption": "Dr. Bhavik Kumar talks to Jess about her options, whether to have a medical or surgical abortion, after they looked at an ultrasound of her pregnancy at the Whole Woman's Health clinic in San Antonio.  Her mother Aisme drove Jess from their home in Del Rio to the clinic, because the illegal abortion pills that they made two trips to Mexico to get did not work."
           },
           {
             "source": "http://ww4.hdnux.com/photos/63/13/56/13417371/3/rawImage.jpg",
-            "title": "Pondering the choice",
+            "title": "Waiting for the procedure",
             "caption": "Dr. Bhavik Kumar, one of few abortion providers in Texas, speaks to Marie before providing her a surgical abortion at the Whole Woman's Health in San Antonio, Texas on February 23, 2017.  Kumar has a three-hour daily commute to the clinic in San Antonio, but also provides in other Whole Woman's Health clinics around the state when needed."
           },
           {
             "source": "http://ww2.hdnux.com/photos/63/13/54/13417253/3/rawImage.jpg",
             "title": "The procedure",
-            "caption": "Jess, 25, holds hands with her mother Aisme as she prepares to undergo an abortion performed by Dr. Bhavik Kumar at the Whole Woman's Health clinic in San Antonio."
+            "caption": "Jess, 25, holds hands with her mother Aisme as she prepares to undergo an abortion performed by Dr. Bhavik Kumar at the Whole Woman's Health clinic in San Antonio. She got an ultrasound in the back of a store in Acu–a, Mexico to see how far along she was.  Then she purchased misoprostol pills which she inserted vaginally.  When they did not work, she returned to the store in Acu–a and had the pharmicist who sold her the original pills insert two more, because she thought she had inserted them incorrectly.  Dr. Kumar suggested that, because the Acu–a pharmacy was not regulated, she may have not gotten the same type or strength medicine she thought she received.  Although she was 9 weeks and could still opt for a medical abortion at Whole Woman's Health, she and Dr. Kumar decided that, because the misoprostol from Mexico did not work, she would be a better candidate for a surgical abortion.  Their full names are being withheld for their privacy."
           },
           {
             "source": "http://ww2.hdnux.com/photos/63/13/56/13417373/3/rawImage.jpg",
-            "title": "The Greyhound station",
-            "caption": "Kristen, 18, waits 5 hours for a bus back to Del Rio at the Greyhound Station in downtown San Antonio, Texas after getting a medical abortion."
+            "title": "Waiting for the bus home",
+            "caption": "Kristen, 18, waits 5 hours for a bus back to Del Rio at the Greyhound Station in downtown San Antonio, Texas after getting a medical abortion at the Whole Woman's Health clinic on March 17, 2017.  Because more than half of Texas' abortion clinics have closed, many women find they have to travel extensively to obtain the procedure."
           },
           {
             "source": "http://ww1.hdnux.com/photos/63/13/56/13417372/3/rawImage.jpg",
-            "title": "The photo",
-            "caption": "Kristen, 18, looks at the ultrasound of her pregnancy, which was early in the first trimester, while she waits for a bus back to Del Rio."
+            "title": "The ultrasound",
+            "caption": "Kristen, 18, holds her sonogram as she waits for a bus back to Del Rio at the Greyhound Station downtown after getting a medical abortion at WWH in San Antonio.  She didn't know to tell the clinic that she came from farther than 150 miles, so she had to endure the 24 hour waiting period Texas law requires between the consultation appointment and the abortion.  Because of that she had to spend over $200 on a hotel room and, because she is in the air force and does not have a car, she had to take a 4.5 hour bus ride from Del Rio, Texas to the closest clinic in San Antonio and a 4.5 hour ride back."
           },
           {
             "source": "http://ww3.hdnux.com/photos/63/13/56/13417374/3/rawImage.jpg",
             "title": "Home to Del Rio",
-            "caption": "Kristen, 18, looks out the window of a Greyhound bus during the 4.5 hour long ride back to Del Rio after getting a medical abortion in San Antonio. She didn't know to tell the clinic that she came from farther than 150 miles, so she had to endure the 24 hour waiting period Texas law requires between the consultation appointment and the abortion."
+            "caption": "Kristen, 18, looks out the window of a Greyhound bus during the over four-hour-long ride back to Del Rio, Texas after getting a medical abortion at the Whole Woman's Health clinic in San Antonio on March 17, 2017.  She did not know to tell the clinic that she came from farther than 100 miles, so she had to endure the 24-hour waiting period that Texas law requires between the consultation appointment and the abortion.  Because of that she had to spend over $200 on a hotel room and, because she is in the Air Force and does not have a car, she had to take a nine hour round-trip bus ride from Del Rio to the closest clinic in San Antonio. Her last name is withheld for her privacy."
           }
         ]
       },
@@ -605,11 +600,11 @@
         "value": [
           {
             "source": "http://ww2.hdnux.com/photos/63/13/54/13417245/3/rawImage.jpg",
-            "caption": "A protest in the capitol."
+            "caption": "A group of women dressed as characters from the book The Handmaid’s Tale participate in a protest for reproductive rights at the Texas State Capitol for the first day of the legislature’s special session on July 18, 2017 in Austin, Texas. “While the Texas legislature is in session, no woman’s health is safe,” Stephanie Martin, one of the handmaids, said. “People are confronted with wondering, ‘why are you bringing this terrible story to life?’ They actually talk to us and ask questions when we wear the capes.”"
           },
           {
             "source": "http://ww3.hdnux.com/photos/63/13/56/13417370/3/rawImage.jpg",
-            "caption": "Rep. John Smithee, R-Amarillo, a supporter of the HB1113 bill banning private insurance abortion coverage, walks away after a committee hearing on the bill at the Capitol."
+            "caption": "Rep. John Smithee, R-Amarillo, a supporter of the HB1113 bill banning private insurance abortion coverage, walks away after a committee hearing on the bill at the Capitol in Austin, Texas on May 3, 2017.  During the hearing, Cindy Silberman tearfully told her story of having to get an abortion, because the hormones from her wanted pregnancy had made her previously latent breast cancer grow exponentially."
           }
         ]
       },
@@ -687,7 +682,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww3.hdnux.com/photos/63/13/54/13417250/3/rawImage.jpg",
-          "caption": "Violeta Anatti Cudena holds her cousin after attending a community gathering hosted by the National Latina Institute for Reproductive Health in La Fruita Colonia in the Rio Grande Valley.",
+          "caption": "A young girl holds her cousin after attending a community gathering hosted by the National Latina Institute for Reproductive Health in La Fruita Colonia in the Rio Grande Valley of Texas on September 15, 2016. Although abortion is not explicitly discussed due to the stigma surrounding the topic, education on reproductive healthcare and contraception is a priority for women and girls in these communities. Their names are withheld for their privacy.",
           "type": "full"
         }
       }
@@ -709,7 +704,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww3.hdnux.com/photos/63/13/56/13417362/3/rawImage.jpg",
-          "caption": "Renee Rivas, a student advocate for reproductive justice at The University of Texas Rio Grande Valley.",
+          "caption": "Renee Rivas, right, who had an abortion and became a student advocate for reproductive rights at the University of Texas Rio Grande Valley, hugs Nina Zamarripa during Rivas' going away party before leaving for an internship with URGE in Washington, D.C.  URGE is an acronym for a non-profit organization that stands for Unite for Reproductive and Gender Equity.  Rivas said that she would not be able to finish school or pursue this internship if she had not had access to an abortion.  She also works as a clinic escort at the Whole Woman's Health abortion clinic in McAllen, Texas.",
           "type": "inline"
         }
       },
@@ -733,7 +728,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww4.hdnux.com/photos/63/13/56/13417363/3/rawImage.jpg",
-          "caption": "The rosary Mercedes gave Delilah to use to pray outside the abortion clinics hangs on a crucifix that Mercedes and Orlando have had for most of their relationship.",
+          "caption": "The rosary Mercedes Soto gave her daughter Delilah to use to pray outside the abortion clinics hangs on a crucifix that Soto and Orlando Sanchez have had for most of their relationship in their home in Edinburg, Texas on May 31, 2017.  Small fetuses sit inside clear beads representing the Virgin Mary's tears, according to Soto. There is also a rubber fetus propped on top that Soto said represents a baby at 12 weeks. Sanchez carried it in his pocket during Soto's pregnancy.",
           "type": "inline"
         }
       },
@@ -778,11 +773,11 @@
         "value": [
           {
             "source": "http://ww2.hdnux.com/photos/63/13/54/13417241/3/rawImage.jpg",
-            "caption": "Yolanda Perez Rittimann, a volunteer at Allied Women's Center, sprays holy water on the television they use to show a graphic anti-abortion video."
+            "caption": "Yolanda Perez Rittimann, a volunteer at Allied Women's Center, sprays holy water on the television they use to show a graphic anti-abortion video, which includes medically incorrect information, in order to discourage women from getting an abortion. Crisis pregnancy centers are religious organizations that usually do not have medical professionals, but do provide pregnancy tests and ultrasounds and discourage women from getting abortions.  In Texas, some of them, not including Allied Women's Center, receive state funding."
           },
           {
             "source": "http://ww3.hdnux.com/photos/63/13/54/13417242/3/rawImage.jpg",
-            "caption": "Zoey Divin, 2, plays with toys donated to the Allied Women's Center, a crisis pregnancy center close to downtown San Antonio."
+            "caption": "Zoey Divin, 2, plays with toys donated to the Allied Women's Center, a crisis pregnancy center close to downtown San Antonio, Texas. Zoey is what the pro-life movement calls a \"saved child\" because her mom Shirley Divin was going to get an abortion, after being told her health problems precluded a safe pregnancy. However, after visiting Allied Women's Center seeking an abortion, she was instead counseled and shown an anti-abortion video.  She decided to keep the baby and continues to receive help from the crisis pregnancy center, including clothes, toys, diapers, and financial support."
           }
         ]
       }
@@ -808,7 +803,7 @@
         "type": "photo",
         "value": {
           "source": "http://ww2.hdnux.com/photos/63/13/56/13417357/3/rawImage.jpg",
-          "caption": "Sofia Peña sits in a bedroom at home. In addition to abortion rights advocacy, she also is working to de-stigmatize the LGBTQ community in this largely socially conservative region.",
+          "caption": "Sofia Peña sits in a bedroom at her home in McAllen, Texas on May 18, 2017.  In addition to her abortion rights advocacy, she also is working to de-stigmatize the LGBTQ community in this largely socially conservative region.",
           "type": "inline"
         }
       },

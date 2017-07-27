@@ -3,7 +3,7 @@
 import React, {Component} from 'react';
 
 import PhotoInfo from '../PhotoInfo/PhotoInfo';
-
+// $FlowFixMe
 import './InlinePhotoDesktopContainer.scss';
 
 class InlinePhotoDesktopContainer extends Component {

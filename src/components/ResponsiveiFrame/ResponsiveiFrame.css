@@ -1,14 +1,8 @@
 .iFrameContainer {
     margin: 0 auto 2vh;
     height: 100vh;
-    max-height: 32vh;
+    max-height: 40vh;
     width: 85%;
-}
-
-@media (min-width: 767px) {
-	.iFrameContainer {
-		max-height: 26vh;
-	}
 }
 
 @media (min-width: 1024px) {
@@ -16,7 +10,6 @@
 		display: inline-flex;
 	    flex-direction: column;
 	    margin: 0 1em 2vh 22vh;
-	    max-height: 28vh;
 	    width: 50%;
 	}
 }

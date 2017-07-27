@@ -38,11 +38,16 @@ type: inline
 
 Jimenez died of an illegal abortion in McAllen in 1977. A 27-year-old college student, she sought the procedure from a McAllen midwife because she couldn’t afford one performed by a physician. Two months earlier, the Hyde Amendment, which banned the use of Medicaid dollars for abortion, went into effect. The day after her abortion, Jimenez died from an infection in a McAllen hospital.
 
+{.subscribe}
+{}
+
 Peña, among some 200 pro-choice activists, wore a bright purple clinic escort vest decorated with buttons, one of which proclaimed “1 in 3” — the number of women who will have an abortion during their reproductive years.
 
 Soto, for her part, sang “Ave Maria” into her megaphone, tears sliding down her face. She recited the words from a host of prayers, including one specifically about ending abortion.
 
 “Almighty Father, give us the courage to proclaim the supreme dignity of human life and to demand that society itself give it protection,” she said, her daughter Delilah by her side.
+
+The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known at House Bill 2, or HB2, passed by Texas legislators in 2013.
 
 {.iframe}
 source: http://datawrapper.dwcdn.net/1zklJ/3/
@@ -51,8 +56,6 @@ source: http://datawrapper.dwcdn.net/1zklJ/3/
 {.iframe}
 source: http://datawrapper.dwcdn.net/Vvn5A/3/
 {}
-
-The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known at House Bill 2, or HB2, passed by Texas legislators in 2013.
 
 The court struck down two provisions that clinics must provide hospital-level facilities and physicians must have admitting privileges at nearby hospitals.
 
@@ -214,6 +217,9 @@ type: inline
 “There’s so much shame about sexuality, especially female sexuality, in the Rio Grande Valley that even if you know your rights, you don’t feel empowered to stand up for them,” she said.
 
 Peña, a student at the University of Texas Rio Grande Valley, didn’t want to continue the pregnancy. But the boyfriend did, and threatened to tell everyone they knew that she was “a slut, that I’d cheated on him,” if she went through with the abortion. Reluctantly, she continued the pregnancy, experiencing bouts of depression as she lived with her boyfriend and his mother.
+
+{.subscribe}
+{}
 
 When her daughter was born, Peña took to parenting right away, to her great surprise. (Out of fear her daughter might be harassed at school or elsewhere for her mother’s views, Peña asked that she remain nameless). But a year later, she accidentally became pregnant a second time by the same boyfriend. She was determined this time to end the pregnancy. By then, the boyfriend, who she said struggled to hold a job and spent a lot of time playing video games, went along with her decision. They had broken up when their daughter was 6 months old, after which Peña moved into an apartment with friends.
 

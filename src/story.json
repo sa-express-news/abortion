@@ -62,6 +62,10 @@
         "value": "Jimenez died of an illegal abortion in McAllen in 1977. A 27-year-old college student, she sought the procedure from a McAllen midwife because she couldn’t afford one performed by a physician. Two months earlier, the Hyde Amendment, which banned the use of Medicaid dollars for abortion, went into effect. The day after her abortion, Jimenez died from an infection in a McAllen hospital."
       },
       {
+        "type": "subscribe",
+        "value": {}
+      },
+      {
         "type": "text",
         "value": "Peña, among some 200 pro-choice activists, wore a bright purple clinic escort vest decorated with buttons, one of which proclaimed “1 in 3” — the number of women who will have an abortion during their reproductive years."
       },
@@ -74,6 +78,10 @@
         "value": "“Almighty Father, give us the courage to proclaim the supreme dignity of human life and to demand that society itself give it protection,” she said, her daughter Delilah by her side."
       },
       {
+        "type": "text",
+        "value": "The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known at House Bill 2, or HB2, passed by Texas legislators in 2013."
+      },
+      {
         "type": "iframe",
         "value": {
           "source": "http://datawrapper.dwcdn.net/1zklJ/3/"
@@ -84,10 +92,6 @@
         "value": {
           "source": "http://datawrapper.dwcdn.net/Vvn5A/3/"
         }
-      },
-      {
-        "type": "text",
-        "value": "The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known at House Bill 2, or HB2, passed by Texas legislators in 2013."
       },
       {
         "type": "text",
@@ -347,6 +351,10 @@
       {
         "type": "text",
         "value": "Peña, a student at the University of Texas Rio Grande Valley, didn’t want to continue the pregnancy. But the boyfriend did, and threatened to tell everyone they knew that she was “a slut, that I’d cheated on him,” if she went through with the abortion. Reluctantly, she continued the pregnancy, experiencing bouts of depression as she lived with her boyfriend and his mother."
+      },
+      {
+        "type": "subscribe",
+        "value": {}
       },
       {
         "type": "text",

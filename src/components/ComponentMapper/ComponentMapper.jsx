@@ -5,6 +5,7 @@ import React from 'react';
 import Paragraph from '../Paragraph/Paragraph';
 import IntroParagraph from '../IntroParagraph/IntroParagraph';
 import SectionHeading from '../SectionHeading/SectionHeading';
+import Subscribe from '../Subscribe/Subscribe';
 import FullPhoto from '../FullPhoto/FullPhoto';
 import FullPhotoContainer from '../FullPhotoContainer/FullPhotoContainer';
 import InlinePhotoDesktop from '../InlinePhotoDesktop/InlinePhotoDesktop';
@@ -69,6 +70,8 @@ export default{
 	photoessay: (object: Object, key: number) => <PhotoEssayContainer photos={object.value} key={key} loadPhoto={loadPhoto} />,
 
 	pullquote: (object: Object, key: number) => <PullQuote quote={object.value.quote} key={key} />,
+
+	subscribe: (object: Object, key: number) => <Subscribe key={key} />,
 
 	related: (object: Object, key: number) => <RelatedContent headline={object.value.headline} link={object.value.link} key={key} />,
 

@@ -2,7 +2,7 @@
 headline: Abortion in Texas
 subhead: The Supreme Court overturned a sweeping abortion law last year, but the system of providers has yet to recover.
 byline: Melissa Fletcher Stoeltje. Photos by Carolyn Van Houten
-date: July 21, 2017
+date: July 27, 2017
 
 {top.image}
 source: http://ww4.hdnux.com/photos/63/13/56/13417367/3/rawImage.jpg
@@ -47,7 +47,7 @@ Soto, for her part, sang “Ave Maria” into her megaphone, tears sliding down 
 
 “Almighty Father, give us the courage to proclaim the supreme dignity of human life and to demand that society itself give it protection,” she said, her daughter Delilah by her side.
 
-The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known at House Bill 2, or HB2, passed by Texas legislators in 2013.
+The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known as House Bill 2, or HB2, passed by Texas legislators in 2013.
 
 {.iframe}
 source: http://datawrapper.dwcdn.net/1zklJ/3/
@@ -69,6 +69,8 @@ type: small-right
 {}
 
 There are about 50,000 abortions a year in Texas and most are 10-minute procedures not requiring hospital-level care. Emergency rooms can’t legally turn away anyone showing up with complications from abortion.
+
+Studies show abortion, most of which take place in the first 12 weeks of pregnancy, is safer than getting a penicillin shot.
 
 While awaiting the court’s ruling, more than half of Texas’ 40 or so abortion clinics closed their doors, unable to comply with HB 2’s requirements. In the three years the law was in effect, the number of abortions declined and an uptick in later-term abortions occurred, a study found.
 
@@ -102,7 +104,7 @@ But three years ago, Sanchez filed for divorce, tired of Soto’s wild living, w
 quote: “I was broken. The devil had ahold of me.”
 {}
 
-Three of the four men were eventually convicted — the fourth fled to Mexico — but none of them did serious time, said Soto, a fact she is still angry about it. She has her own rap sheet, six misdemeanor convictions for crimes like theft, misuse of a credit card and driving while intoxicated.
+Three of the four men were eventually convicted — the fourth fled to Mexico — but none of them did serious time, said Soto, a fact she is still angry about. She has her own rap sheet, six misdemeanor convictions for crimes like theft, misuse of a credit card and driving while intoxicated.
 
 When Soto discovered the rape had impregnated her, she tried to self-abort, taking misoprostol pills she was able to get without a prescription. She drank toxic teas. She even had fellow gang members punch her in the stomach.
 
@@ -120,7 +122,7 @@ When none of that worked, she made an appointment at Whole Woman’s Health, sob
 
 Laying on the sonogram table, Soto had a sudden change of heart. “I ran out of that clinic, knowing that I really wanted my baby. It was the only way to get my family back. I had lost everybody.”
 
-She later met up with Yolanda Chapa, that protester who had touched her heart. The two started attending church together. At the crisis pregnancy center, an ultrasound couldn’t find the finger or toes on the fetus she was carrying. Distraught, sure her attempts to self-abort had damaged her baby, Soto attended a three-day spiritual retreat, where she asked Jesus to come into her heart and heal her baby.
+She later met up with Yolanda Chapa, that protester who had touched her heart. The two started attending church together. At the crisis pregnancy center, an ultrasound couldn’t find the fingers or toes on the fetus she was carrying. Distraught, sure her attempts to self-abort had damaged her baby, Soto attended a three-day spiritual retreat, where she asked Jesus to come into her heart and heal her baby.
 
 At the next sonogram, the fetus appeared perfectly normal. Not only was Soto convinced her prayers were answered, she’d found her calling as a pro-life activist.
 
@@ -237,7 +239,7 @@ She chose a medical abortion, a two-pill regime that can be used during the firs
 
 When Pena sought an abortion, before HB2, there were two clinics in South Texas, the one in McAllen and a now-closed one in Harlingen. She had a steady job as a cashier at Walgreen’s, with accrued vacation days she could use as time off. She had friends who could help with her daughter as she went through her abortion at home.
 
-“If I’d gotten it after HB2, when Whole Woman’s Health was closed, I would have had to go to San Antonio,” she said. A clause in Texas’ mandatory 24-hour waiting period for an abortion reduces the time to two hours for women who must travel more than 100 miles. Still, Peña would have had to to make a seven hour round-trip. “I would have had to take off more time, which wouldn’t have gone over well at work. I would’ve had to find a babysitter.”
+“If I’d gotten it after HB2, when Whole Woman’s Health was closed, I would have had to go to San Antonio,” she said. A clause in Texas’ mandatory 24-hour waiting period for an abortion reduces the time to two hours for women who must travel more than 100 miles. Still, Peña would have had to to make a seven hour round trip. “I would have had to take off more time, which wouldn’t have gone over well at work. I would’ve had to find a babysitter.”
 
 {.photo}
 source: http://ww1.hdnux.com/photos/63/13/56/13417360/3/rawImage.jpg
@@ -269,9 +271,13 @@ caption: A pro-choice message is graffitied onto a pro-life sign in the field be
 type: full
 {}
 
-When it comes to the abortion wars in Texas, this city of almost 140,000 represents the front line, or at least one of them. The Whole Woman’s Health clinic, 238 miles from San Antonio, is one of four operated in Texas by CEO Amy Hagstrom Miller, who was the lead plaintiff in the landmark case of Whole Woman’s Health vs. Hellersted
+When it comes to the abortion wars in Texas, this city of almost 140,000 represents the front line, or at least one of them. The Whole Woman’s Health clinic, 238 miles from San Antonio, is one of four operated in Texas by CEO Amy Hagstrom Miller, who was the lead plaintiff in the landmark case of Whole Woman’s Health vs. Hellersted.
 
 The clinic in McAllen was closed for 11 months during the legal battle over HB2, but reopened in 2014, after a judge issued an injunction allowing it to operate.
+
+Planned Parenthood South Texas, the affiliate in San Antonio, answered HB2’s demands by building a $6.5 million ambulatory surgical center in the South Texas Medical Center, which opened in 2015. During the interim, before the center was finished, the agency served clients at an independent ambulatory surgical center, a spokeswoman said.
+
+Two other abortion clinics operate in San Antonio, including a Whole Woman’s Health. Statewide, six Planned Parenthood abortion clinics closed after HB2, none of which have reopened — Bryan/College Station, Midland, Lubbock, Abilene, San Angelo and Stafford.
 
 sectionheading: Whole Woman's Health Roe v. Wade protest
 
@@ -303,14 +309,11 @@ caption: Andrea Ferrigno, vice president of Whole Woman's Health, comforts Krist
 
 []
 
-
-Studies show abortion, most of which take place in the first 12 weeks of pregnancy, is safer than getting a penicillin shot.
-
-Before a guard was hired to patrol the clinic’s perimeter, protestors would attempt to block patients leaving their cars or entering the clinic, or tried to redirect them to Chapa’s center, where staff would seek to talk them out of having an abortion, said escort Melissa Arjona, standing outside the abortion clinic last spring.
+Before a guard was hired to patrol the McAllen clinic’s perimeter, protestors would attempt to block patients leaving their cars or entering the clinic, or tried to redirect them to Chapa’s center, where staff would seek to talk them out of having an abortion, said escort Melissa Arjona, standing outside the abortion clinic last spring.
 
 Things have calmed down, she said. Now, if protestors start shouting at women, the guard plays loud music on his megaphone to drown out their words. As Arjona spoke, a woman praying with a rosary walked up and down the public sidewalk. When her shift was over, another woman, open Bible in hand, took her place.
 
-The number of abortions dropped in Texas from 2013 to 2014, from 64,000 to 55,000 annually. A study found that six months after HB2 took effect, 38 percent of women had to drive farther to obtain abortions because their nearest clinic had closed. They had to wait longer to receive care, if they could even access it, sometimes up to a month.
+The number of abortions performed in Texas, as well as those obtained by Texas residents in other states, dropped from 2013 to 2014, from 64,000 to 55,000 annually. A study found that six months after HB2 took effect, 38 percent of women had to drive farther to obtain abortions because their nearest clinic had closed. They had to wait longer to receive care, if they could even access it, sometimes up to a month.
 
 “That’s a long time for a woman to wait for a time-sensitive procedure,” said Kari White with the Texas Policy Evaluation Project at the University of Texas at Austin, which conducted the study. The report also found a 25 percent increase in later-term abortions, likely the result of women struggling to obtain the procedure earlier in pregnancy, White said. While later-term abortions are still safe, they are costlier and the risk of complications rise.
 
@@ -328,7 +331,7 @@ caption: Dr. Bhavik Kumar looks at an ultrasound of Jess before he can perform h
 
 source: http://ww4.hdnux.com/photos/63/13/56/13417375/3/rawImage.jpg
 title: Discussing options
-caption: Dr. Bhavik Kumar talks to Jess about her options, whether a medical or surgical abortion, after they looked at an ultrasound of her pregnancy before he performed her abortion at the Whole Woman's Health
+caption: Dr. Bhavik Kumar talks to Jess about her options, whether a medical or surgical abortion, after they looked at an ultrasound of her pregnancy before he performed her abortion at the Whole Woman's Health clinic in San Antonio.
 
 source: http://ww4.hdnux.com/photos/63/13/56/13417371/3/rawImage.jpg
 title: Pondering the choice
@@ -344,11 +347,11 @@ caption: Kristen, 18, waits 5 hours for a bus back to Del Rio at the Greyhound S
 
 source: http://ww1.hdnux.com/photos/63/13/56/13417372/3/rawImage.jpg
 title: The photo
-caption: Kristen, 18, looks at the ultrasound of her pregnancy, which was early in the first trimester, while she waits for a bus back to Del Rio
+caption: Kristen, 18, looks at the ultrasound of her pregnancy, which was early in the first trimester, while she waits for a bus back to Del Rio.
 
 source: http://ww3.hdnux.com/photos/63/13/56/13417374/3/rawImage.jpg
 title: Home to Del Rio
-caption: Kristen, 18, looks out the window of a Greyhound bus during the 4.5 hour long ride back to Del Rio after getting a medical abortionin San Antonio. She didn't know to tell the clinic that she came from farther than 150 miles, so she had to endure the 24 hour waiting period Texas law requires between the consultation appointment and the abortion.
+caption: Kristen, 18, looks out the window of a Greyhound bus during the 4.5 hour long ride back to Del Rio after getting a medical abortion in San Antonio. She didn't know to tell the clinic that she came from farther than 150 miles, so she had to endure the 24 hour waiting period Texas law requires between the consultation appointment and the abortion.
 
 []
 
@@ -358,7 +361,7 @@ In Nuevo Progreso, Mexico, a frenetic border town that is a 40-minute drive from
 
 {.photo}
 source: http://ww4.hdnux.com/photos/63/13/54/13417251/3/rawImage.jpg
-caption: Misoprostol, a prescription-only ulcer medication that has can be used to induce abortions, is displayed on a hotel room bed in McAllen.
+caption: Misoprostol, a prescription-only ulcer medication that can be used to induce abortions, is displayed on a hotel room bed in McAllen.
 type: inline
 {}
 
@@ -372,11 +375,11 @@ Three years ago, as part of her work with South Texans for Reproductive Justice,
 
 [+sections.5]
 
-sectionheading: Other women, other stories
+sectionheading: More restrictions on abortion
 
-In the legislative session that ended in May, lawmakers submitted more than 50 bills that sought to regulate abortion. The major bill that passed and became law requires fetal remains from abortion to be buried or cremated, bans a common procedure used in second trimester abortions, bans so-called partial birth abortion, which is already illegal under federal law, and forbids the sale or donation of fetal remains for research purposes. The sale of fetal tissue is already illegal in Texas.
+In the legislative session that ended in May, lawmakers submitted more than 50 bills that sought to regulate abortion. The major bill that passed and became law — Senate Bill 8, or SB8 — requires fetal remains from abortion to be buried or cremated, bans a common procedure used in second trimester abortions, bans so-called partial birth abortion, which is already illegal under federal law, and forbids the sale or donation of fetal remains for research purposes. The sale of fetal tissue is already illegal in Texas.
 
-Three abortion bills that died will be heard in a special session that began July 18. The bills would, respectively, ban private insurance coverage of abortion, impose new reporting rules on abortion providers and further defund Planned Parenthood.
+Three abortion bills that died were revived in a special session that began July 18. They would, respectively, ban private insurance coverage of abortion, impose new reporting rules on abortion providers and further defund Planned Parenthood.
 
 [.photos]
 
@@ -384,27 +387,29 @@ source: http://ww2.hdnux.com/photos/63/13/54/13417245/3/rawImage.jpg
 caption: A protest in the capitol.
 
 source: http://ww3.hdnux.com/photos/63/13/56/13417370/3/rawImage.jpg
-caption: Rep John Smithee, R-Amarillo, a supporter of the HB1113 bill banning private insurance abortion coverage, walks away after a committee hearing on the bill at the Capitol.
+caption: Rep. John Smithee, R-Amarillo, a supporter of the HB1113 bill banning private insurance abortion coverage, walks away after a committee hearing on the bill at the Capitol.
 
 []
 
 John Seago, legislative director for Texas Right to Life, said his group advocated hardest for the second-trimester procedure ban during the legislative session — opponents call it “dismemberment” abortion, because doctors remove parts of the fetus with instruments. The medical community opposes the ban.
 
-“This is an element of abortion jurisdiction that needs to be re-examined,” he said. “This part of SB8 differs from HB2 in that it’s built on a state’s interest in fetal life, rather than maternal health. The Supreme Court has already noticed that state’s can pass pro-life legislation based on the state’s interest in pre-born life. So a court challenge doesn’t worry us.”
+“This is an element of abortion jurisdiction that needs to be re-examined,” he said. “This part of SB8 differs from HB2 in that it’s built on a state’s interest in fetal life, rather than maternal health. The Supreme Court has already noticed that states can pass pro-life legislation based on the state’s interest in pre-born life. So a court challenge doesn’t worry us.”
 
-Since 2010, hundreds of so-called TRAP laws — it stands for Targeted Regulations of Abortion Providers — have been enacted across the nation. The goal, say abortion right advocates, is to chip away at clinics’ ability to provide care until the procedure becomes all but illegal.
+In the first week of the special session, abortion providers and advocates filed suit in federal court, challenging the constitutionality of the second-trimester procedure ban.
+
+Since 2010, hundreds of so-called TRAP laws — it stands for Targeted Regulations of Abortion Providers — have been enacted across the nation. The goal, say abortion rights advocates, is to chip away at clinics’ ability to provide care until the procedure becomes all but illegal.
 
 {.pullquote}
 quote: “Texas is a very large state geographically, so it’s not unusual for people to travel significant distances to get medical care.”
 {}
 
-Advocates say laws that make it harder for clinics to provide abortions disproportionally hurt low-income women and women of color, as well as rural women and young women.
+Advocates say laws that make it harder for clinics to provide abortions disproportionately hurt low-income women and women of color, as well as rural women and young women.
 
-Joe Pojman, executive director of Texas Alliance for Life, called the ruling to scuttle HB2 “a very big set back” for abortion opponents in Texas, but said the movement is far from cowed. While he acknowledged parts of SB8 — particularly the second-trimester ban — might not pass constitutional muster, other elements of the law are overdue.
+Joe Pojman, executive director of Texas Alliance for Life, called the ruling to scuttle HB2 “a very big setback” for abortion opponents in Texas, but said the movement is far from cowed. While he acknowledged parts of SB8 — particularly the second-trimester ban — might not pass constitutional muster, other elements of the law are overdue.
 
-“The ban on selling or donating fetal tissue and partial-birth abortion, we believe those aren’t being enforced in Texas,” he said
+“The ban on selling or donating fetal tissue and partial-birth abortion, we believe those aren’t being enforced in Texas,” he said.
 
-Pojman scoffs at the notion abortion is no longer readily available in Texas. As for women having to travel further to obtain one, “Texas is a very large state geographically, so it’s not unusual for people to travel significant distances to get medical care. If I lived in the Rio Grande Valley, I’d have to drive quite a distance to Houston to get cancer treatment at MD Anderson. (Cancer Center.)”
+Pojman scoffs at the notion abortion is no longer readily available in Texas. As for women having to travel further to obtain one, “Texas is a very large state geographically, so it’s not unusual for people to travel significant distances to get medical care. If I lived in the Rio Grande Valley, I’d have to drive quite a distance to Houston to get cancer treatment at MD Anderson [Cancer Center].”
 
 During the last session, when the bill to ban insurance coverage for abortion was discussed in a public hearing, Cindy Silberman told lawmakers her story.
 
@@ -414,7 +419,7 @@ In 1993, Silberman was diagnosed with breast cancer when she was pregnant with a
 
 “After many heartfelt conversations with my family and my physicians, after prayers for guidance and strength, I chose to have the abortion and fight the cancer,” she tearfully said.
 
-Rep John Smithee, R-Amarillo, told Silberman her abortion would be covered under the bill, which has an exception for the life of the mother. He couldn’t be so comforting to a Dallas resident, who spoke about his wife’s abortion six years ago, after it was discovered the fetus had a chromosomal malady. Most babies with the disorder die hours after birth.
+Rep. John Smithee, R-Amarillo, told Silberman her abortion would be covered under the bill, which has an exception for the life of the mother. He couldn’t be so comforting to a Dallas resident, who spoke about his wife’s abortion six years ago, after it was discovered the fetus had a chromosomal malady. Most babies with the disorder die hours after birth.
 
 The insurance ban doesn’t allow for exceptions for fetal anomalies or rape.
 
@@ -432,7 +437,7 @@ type: full
 
 [+sections.6]
 
-sectionheading: A wave of shame
+sectionheading: Other women, other stories
 
 Juanita Renee Rivas, 23, a student at UT Rio Grande Valley and a waitress, was shocked to discover she was pregnant last year. She and her boyfriend used condoms — but not every single time. The latex irritated her, she said.
 
@@ -460,13 +465,17 @@ type: inline
 
 She didn’t know Allied was one of hundreds of crisis pregnancy centers, or CPCs, that have proliferated across Texas in recent years. A good number belong to the Texas Pregnancy Care Network, which contracts with the Texas Health and Human Services Commission under the Alternatives to Abortion education program, or A2A, which seeks to help women choose to continue their pregnancies.
 
-Legislators have shunted millions to the A2A program since 2006. They allocated $18 million to it in the current two-year budget, more than triple the amount given in its first biennium. The same amount is earmarked from the next budget, with another $20 million set aside if the state “determines additional clients can be served,” said spokeswoman Christine Mann.
+Since 2006, legislators have shunted millions from family-planning and other programs to A2A, which also provides funds to maternity homes and adoption agencies. They allocated $18 million to it in the current two-year budget, more than triple the amount given in its first biennium. The same amount is earmarked from the next budget, with another $20 million set aside if the state “determines additional clients can be served,” said spokeswoman Christine Mann.
 
-Critics say the centers prey on the confusion of vulnerable women.
+Critics say the centers prey on the confusion of vulnerable women. Proponents argue they simply provide information, as well as support to clients so they will continue their pregnancies.
 
-The walls inside Allied Women’s Center, which doesn’t accept state funding, are lined with shelves holding diapers, clothes, toys. A chapel near the back features a huge crucifix and kneelers for prayer, in hopes a woman considering abortion might be persuaded to change her mind.
+The walls inside Allied Women’s Center are lined with shelves holding diapers, clothes, toys. A chapel near the back features a huge crucifix and kneelers for prayer, in hopes a woman considering abortion might be persuaded to change her mind.
 
 Some clients are also shown a video that asserts health risks related to abortion that have been disproved by the medical community, as well as graphic photos of aborted fetuses.
+
+Owner Teresa Haring said her facility is funded by churches and private donors; she doesn’t accept state funding, which would entail her to abide by certain guidelines, such as keeping the religious aspect of her center separate in time and location from her other services.
+
+“I don’t want my hands tied,” she said. Chapa’s crisis pregnancy center in McAllen likewise doesn’t accept state funding, Mann said.
 
 Owner Teresa Haring counseled Divin and showed her the video. Divin decided to keep her pregnancy. On a recent afternoon, she visited the center with daughter Zoey, a two-year-old with winsome brown curls, to pick up some supplies. Haring has also helped her with rent and bills, as she does other clients.
 
@@ -475,10 +484,10 @@ Owner Teresa Haring counseled Divin and showed her the video. Divin decided to k
 [.photos]
 
 source: http://ww2.hdnux.com/photos/63/13/54/13417241/3/rawImage.jpg
-caption: Yolanda Perez Rittimann, a volunteer at Allied Women's Center, sprays holy water on the television they use to show a graphic anti-abortion video
+caption: Yolanda Perez Rittimann, a volunteer at Allied Women's Center, sprays holy water on the television they use to show a graphic anti-abortion video.
 
 source: http://ww3.hdnux.com/photos/63/13/54/13417242/3/rawImage.jpg
-caption: Zoey Divin, 2, plays with toys donated to the Allied Women's Center, a crisis pregnancy center close to downtown San Antonio
+caption: Zoey Divin, 2, plays with toys donated to the Allied Women's Center, a crisis pregnancy center close to downtown San Antonio.
 
 []
 

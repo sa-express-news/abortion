@@ -1,8 +1,8 @@
 {
   "top": {
     "meta": {
-      "headline": "Abortion in Texas",
-      "subhead": "The Supreme Court last year overturned critical parts to a sweeping anti-abortion law passed by Texas legislators in 2013, but the system of providers has not recovered.",
+      "headline": "The Abortion Divide",
+      "subhead": "Two Texas women's stories dramatize the crucial decisions at the center of their lives.",
       "byline": "Melissa Fletcher Stoeltje | Photos by Carolyn Van Houten",
       "date": "July 27, 2017"
     },
@@ -82,15 +82,12 @@
         "value": "The two women never met face-to-face on this day, but their stories offer mirror reflections in the ongoing furor over abortion, the latest chapter of which unfolded one year ago, when, in a landmark ruling, the Supreme Court overturned critical parts of a sweeping anti-abortion law known as House Bill 2, or HB2, passed by Texas legislators in 2013."
       },
       {
-        "type": "iframe",
+        "type": "photo",
         "value": {
-          "source": "https://e.infogram.com/texas_residents_who_received_abortions_2010_15?src=embed"
-        }
-      },
-      {
-        "type": "iframe",
-        "value": {
-          "source": "https://e.infogram.com/out_of_state_abortions_performed_on_texas_residents_2010_15?src=embed"
+          "source": "http://ww3.hdnux.com/photos/63/22/03/13443302/3/rawImage.png",
+          "caption": "This map shows the number of abortion clinics by location before, during and after the passing of HB 2.",
+          "cutline": "Mike Fisher / San Antonio Express-News",
+          "type": "small-right"
         }
       },
       {
@@ -100,15 +97,6 @@
       {
         "type": "text",
         "value": "In a 5-3 decision, the justices found neither regulation was necessary to protect women’s health, and in fact placed an undue burden on their constitutional right to obtain an abortion."
-      },
-      {
-        "type": "photo",
-        "value": {
-          "source": "http://ww4.hdnux.com/photos/63/13/54/13417235/3/rawImage.jpg",
-          "caption": "This map shows the number of abortion clinics by location before and after the passing of HB 2.",
-          "cutline": "Mike Fisher / San Antonio Express-News",
-          "type": "small-right"
-        }
       },
       {
         "type": "text",

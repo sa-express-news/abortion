@@ -21,6 +21,7 @@ import PullQuote from '../PullQuote/PullQuote';
 import RelatedContent from '../RelatedContent/RelatedContent';
 import ResponsiveiFrame from '../ResponsiveiFrame/ResponsiveiFrame';
 import Video from '../Video/Video';
+import HTMLElement from '../HTMLElement';
 
 const loadPhoto = (path: string) => {
 	return path;
@@ -81,6 +82,8 @@ export default{
 		const video = object.value;
 		return <Video src={video.source} autoPlay={video.autoplay} muted={video.muted} loop={video.loop} controls={video.controls}/>
 	},
+
+	html: (object: Object, key: number) => <HTMLElement html={object.value.html} key={key} />,
 
 	renderComponent: function(object: Object, key: number){
 		return object.type && this[object.type] ? this[object.type](object, key) : null;
